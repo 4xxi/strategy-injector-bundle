@@ -3,7 +3,7 @@
 ## Installation
 1. Install component via composer
 ```shell script
-composer require 4xxi/strategy-injector-bundle
+composer require 4xxi/strategy-injector
 ```
 
 2. Add configuration yaml into `config/packages/strategy_injector.yaml` with following content:
