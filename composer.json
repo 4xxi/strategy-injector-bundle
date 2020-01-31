@@ -1,0 +1,22 @@
+{
+  "name": "4xxi/strategy-injector",
+  "description": "Symfony helper for implementing \"Strategy\" pattern",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "Fourxxi\\StrategyInjectorBundle\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitrii Bezmelnitsyn",
+      "email": "dbezmelnitsyn@4xxi.com"
+    }
+  ],
+  "require": {
+    "symfony/dependency-injection": "^4.0",
+    "symfony/http-kernel": "^4.0",
+    "symfony/config": "^4.0"
+  }
+}
